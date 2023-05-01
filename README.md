@@ -1,3 +1,3 @@
 # AcerPhytonTests
 
-trying to put evnything i an think of down
+trying to put everything i can think of down
